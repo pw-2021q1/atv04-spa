@@ -1,5 +1,5 @@
 namespace Model {
-    const RA = "2123689" // TODO: FILL WITH YOUR RA
+    const RA = "" // TODO: FILL WITH YOUR RA
     const HOST = "https://pw2021q1-todo-spa.herokuapp.com/api"
 
     /**
